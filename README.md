@@ -9,9 +9,10 @@
 - 📸 [Instagram](https://www.instagram.com/anuj_215/)
 - ⚡ 2022 Goals: Gain good amount of knowledge on things i am working on. 
 - 🥅 Other facts: I am also good at sports like Vollyball and Cricket.
+- Holopin Board
 
 
-- [![@anujshukla007's Holopin board](https://holopin.io/api/user/board?user=anujshukla007)](https://holopin.io/@anujshukla007)
+[![@anujshukla007's Holopin board](https://holopin.io/api/user/board?user=anujshukla007)](https://holopin.io/@anujshukla007)
 
 
 ### Languages and Tools:
